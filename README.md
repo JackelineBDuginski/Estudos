@@ -1,3 +1,1 @@
-<h1>Sistema de cadastro de estudos</h>
-
-> Status do projeto: Em desenvolvimento
+<h1>Pasta destinada ao armazenamento dos scriots referentes aos meus estudos divididos por áreas</h1>
